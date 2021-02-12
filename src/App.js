@@ -46,7 +46,7 @@ function App() {
                         <DevicePosition/>
                       </Router>
                         <Route>
-                            HomePejdz
+                            <DevicePosition/>
                         </Route>
                     </Switch>
                     </Container>
