@@ -31,6 +31,7 @@ function App() {
                       </Router>
                         <Route>
                             HomePejdz
+                            <Geo/>
                         </Route>
                     </Switch>
                     </Container>

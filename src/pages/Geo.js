@@ -16,7 +16,7 @@ const Geo = () => {
         return <Alert variant="danger">{error.message}</Alert>
 
     const fetchPlaces = async () =>{
-        const resp = await fetch(`https://maps.googleapis.com/maps/api/place/nearbysearch/json?key=${process.env.REACT_APP_GOOGLE_MAP_API}&radius=1000&location=49.8103,19.0129&type=parking,restaurant`).then(resp=>resp.json()).then(resp=>resp.results)
+        const resp = await fetch(`https://reverent-hugle-6b1951.netlify.app/.netlify/functions/fetchPlaces?location=49.8103,19.0129`)
         console.log(resp);
     }
 
