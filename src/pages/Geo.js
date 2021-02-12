@@ -1,13 +1,22 @@
-import React from 'react';
+import React, {useEffect} from 'react';
 import {useGeolocation, useAsyncFn} from 'react-use';
-import {Row, Alert, Spinner, Col} from "react-bootstrap";
+import {Row, Alert, Spinner, Col, Card} from "react-bootstrap";
+import {isEmpty} from 'lodash'
+import mockPlaces from '../mockPlaces'
 
 const Geo = () => {
     const {loading, longitude, latitude, error} = useGeolocation()
-    const [state, getPlaces] = useAsyncFn(async () => {
-        const response = await fetch(`https://maps.googleapis.com/maps/api/place/nearbysearch/json?key=${process.env.REACT_APP_GOOGLE_MAP_API}&radius=1000&location=49.8103,19.0129&type=parking,restaurant`)
+    const [{loading:isPlacesLoading, value:places}, getPlaces] = useAsyncFn(async () => {
+        if(process.env.NODE_ENV==='development')
+            return mockPlaces
+        const response = await fetch(`${process.env.URL}/.netlify/functions/fetchPlaces?location=49.8103,19.0129`)
         return response.json()
-    }, [])
+    }, [longitude,latitude])
+
+    useEffect(()=>{
+        getPlaces()
+        },
+        [longitude, latitude])
 
     if (loading)
         return <Spinner animation="border" variant="info"/>
@@ -15,22 +24,40 @@ const Geo = () => {
     if (error?.message)
         return <Alert variant="danger">{error.message}</Alert>
 
-    const fetchPlaces = async () =>{
-        const resp = await fetch(`https://reverent-hugle-6b1951.netlify.app/.netlify/functions/fetchPlaces?location=49.8103,19.0129`)
-        console.log(resp);
-    }
-
     return (
         <Row>
-            <Col>
-                <div>Your position:
-                    <p>{longitude} lng</p>
-                    <p>{latitude} lat</p>
-                    <button onClick={fetchPlaces}>XD</button>
-                </div>
+            <Col md={4}>
+                <Card >
+                    <Card.Body>
+                        <Card.Title>Your position</Card.Title>
+                        <Card.Text>
+                            {longitude} lng<br/>
+                            {latitude} lat
+                        </Card.Text>
+                    </Card.Body>
+                </Card>
             </Col>
             <Col>
-                sds
+                <Row>
+                {isPlacesLoading
+                    ?<Spinner animation="border" variant="warning"/>
+                    :isEmpty(places)
+                    ? <Alert variant="danger">Places fetching error</Alert>
+                        : places.map(({name,icon,place_id,vicinity})=>(
+                            <Col xs={6} md={4} key={place_id}>
+                                <Card >
+                                    <Card.Img variant="top" src={icon} />
+                                    <Card.Body>
+                                        <Card.Title>{name}</Card.Title>
+                                        <Card.Text>
+                                            {vicinity}
+                                        </Card.Text>
+                                    </Card.Body>
+                                </Card>
+                            </Col>
+                        ))
+                }
+                </Row>
             </Col>
         </Row>
     );

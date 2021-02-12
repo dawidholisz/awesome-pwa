@@ -1,0 +1,987 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 49.816316,
+        "lng": 19.009537
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 49.8175750302915,
+          "lng": 19.0109230302915
+        },
+        "southwest": {
+          "lat": 49.8148770697085,
+          "lng": 19.00822506970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "name": "Pizza Bellissima pizzeria z osobnym pokojem zabaw dla dzieci w Bielsku-Białej",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 550,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106746864719311564356\">Pizza Bellissima pizzeria z osobnym pokojem zabaw dla dzieci w Bielsku-Białej</a>"
+        ],
+        "photo_reference": "ATtYBwImZLQ3LLD5aqsBiKUQc9-lXiCruDyh2IcpZR-fqbF-tod1XTEkeXs7X9GLvrArCffVQurIfD5ibwIFuWw8zSaoaAEqcALVcSftTw1dnbl_5PtR0jcByGoz0W4HbHiYwmtGlLPATWaaq8biRBuQsxwUdMrx56tG9ylyScHB8G63BPHC",
+        "width": 960
+      }
+    ],
+    "place_id": "ChIJpxbzv7WhFkcRgzrMKVhChH0",
+    "plus_code": {
+      "compound_code": "R285+GR Bielsko-Biala, Poland",
+      "global_code": "8FXXR285+GR"
+    },
+    "price_level": 1,
+    "rating": 4.3,
+    "reference": "ChIJpxbzv7WhFkcRgzrMKVhChH0",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 608,
+    "vicinity": "Wodna 61a, Wjazd Do Pizzerii Od Ul. Spółdzielców, Bielsko-Biała"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 49.8155065,
+        "lng": 19.0183271
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 49.8168978802915,
+          "lng": 19.0197802802915
+        },
+        "southwest": {
+          "lat": 49.8141999197085,
+          "lng": 19.0170823197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "name": "Pierożek Festiwal Smaków. Pierogi, krokiety domowe",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 614,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113301702682884715405\">Pierożek Festiwal Smaków. Pierogi, krokiety domowe</a>"
+        ],
+        "photo_reference": "ATtYBwLV00PDLHYfC7LR1NE6qD81sqzYUmpvIeDV_esu9FDqEWK0cn942ADk2y8aAQAG4wuJNNVCO1WXJ52QmiuA6gN87dpSBkuBizm4OHJ3MK4TpfMuxx6raLzL_NYRst6GoDqIkUudMcksk_NBk4Uv0oHQ7VZ3XfIZpBLxCweyYvhXyAWw",
+        "width": 1305
+      }
+    ],
+    "place_id": "ChIJ3UeQjcuhFkcRHTJU1mRoHQo",
+    "plus_code": {
+      "compound_code": "R289+68 Bielsko-Biala, Poland",
+      "global_code": "8FXXR289+68"
+    },
+    "price_level": 1,
+    "rating": 4.3,
+    "reference": "ChIJ3UeQjcuhFkcRHTJU1mRoHQo",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 17,
+    "vicinity": "Brodzińskiego 3, Bielsko-Biała"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 49.80335789999999,
+        "lng": 19.0080619
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 49.8048071802915,
+          "lng": 19.0093475302915
+        },
+        "southwest": {
+          "lat": 49.80210921970851,
+          "lng": 19.0066495697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "name": "Admiral Club Pod Śmigłem",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2368,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102940783395898181361\">Jacek Kucharczyk</a>"
+        ],
+        "photo_reference": "ATtYBwKXd09PZlg1AIuYWMBxVwls2_XaCUEAmeGxF4OeGzL3Vqp-t97yrd3b350ji3uF2D-LPz91SHCRJ6u1cX3Yds8eVw6vHqjyI-ZlrphgL7BbxTMByEqs2UWtwQizXi-HcpZqO774DCnBtji9skVBagT4LbVwr8dJZAkN4kj6-Fhukw-1",
+        "width": 4224
+      }
+    ],
+    "place_id": "ChIJdQoAZTegFkcRyuoH8kQGW_o",
+    "plus_code": {
+      "compound_code": "R235+86 Bielsko-Biala, Poland",
+      "global_code": "8FXXR235+86"
+    },
+    "price_level": 2,
+    "rating": 4.4,
+    "reference": "ChIJdQoAZTegFkcRyuoH8kQGW_o",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 616,
+    "vicinity": "Zwardońska 50, Bielsko-Biała"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 49.814487,
+        "lng": 19.0171613
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 49.8157161802915,
+          "lng": 19.0185698302915
+        },
+        "southwest": {
+          "lat": 49.8130182197085,
+          "lng": 19.01587186970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "name": "Pizzeria STODOŁA",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2592,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118112012955405785282\">Pizzeria STODOŁA</a>"
+        ],
+        "photo_reference": "ATtYBwLS4z8UiLeqUDRsntOpu5mEXlKwx5S6tZOa5evUmXgn8Pfprhyn_r3mWFdZZXGcSfSbI6TW5_ZBYGjD-FFHQzHumm1_IleGHGO3Tq6cfMxZlFsnmJrqRjwIo6D8HC75qN0jiGpgnzXIl5sB2Y55_VX5fkM0iJwo8ZZodnPzmkSunNEA",
+        "width": 3872
+      }
+    ],
+    "place_id": "ChIJMzF4dsuhFkcRQHqoM2f4qwc",
+    "plus_code": {
+      "compound_code": "R278+QV Bielsko-Biala, Poland",
+      "global_code": "8FXXR278+QV"
+    },
+    "price_level": 1,
+    "rating": 4.3,
+    "reference": "ChIJMzF4dsuhFkcRQHqoM2f4qwc",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1063,
+    "vicinity": "Cieszyńska 140, Bielsko-Biała"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 49.8093872,
+        "lng": 19.0172672
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 49.8107700802915,
+          "lng": 19.0185281302915
+        },
+        "southwest": {
+          "lat": 49.8080721197085,
+          "lng": 19.0158301697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "name": "Wrzosowa Chata",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114569582139316699784\">Wrzosowa Chata</a>"
+        ],
+        "photo_reference": "ATtYBwJp5m3pRIXV5AW5PkOU_gBtpISz-ksSLwEUFUBGufitRMRz1IX9tR5vvN1z6GGwJVNogYdqO-K4xUNmiFHbfJ_gO0iERDm0HLTdRqqP1HrPQr1dzSA8TMFl2xx9iAI9Glp8fyWLZ5OOsoIWALF8uQdyktrgCpGbHSVxdwgpKCkxcMt-",
+        "width": 528
+      }
+    ],
+    "place_id": "ChIJ_xhBCjOgFkcRSfnkKaPQcp4",
+    "plus_code": {
+      "compound_code": "R258+QW Bielsko-Biala, Poland",
+      "global_code": "8FXXR258+QW"
+    },
+    "price_level": 2,
+    "rating": 4.3,
+    "reference": "ChIJ_xhBCjOgFkcRSfnkKaPQcp4",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "bakery",
+      "meal_takeaway",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 1172,
+    "vicinity": "Lotnicza 3, Bielsko-Biała"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 49.8051247,
+        "lng": 19.0128855
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 49.8063677802915,
+          "lng": 19.0142944802915
+        },
+        "southwest": {
+          "lat": 49.8036698197085,
+          "lng": 19.0115965197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "name": "Karczma pod Lotniskiem",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111183372083511956219\">Sylwester Dariusz Bobowski</a>"
+        ],
+        "photo_reference": "ATtYBwLHYf8ALRur7eEaxyvAVWmS-0WQMT9lLhdlc9zmvwzOSt8vS4pyrZ0D6rHVfGDVVSqyTOC7iroSTa-PPUD1KHQ5aE31ZG8rwObxgD3SEW_aZeBUiCzekRugzS5oJQ9uNsjVxoKuX8FwB1Mhx6zJdxYD6LX_1ZPu9x-0rqiLZEfxeRCD",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ67TZJzGgFkcRk0ypLH8zJb8",
+    "plus_code": {
+      "compound_code": "R247+25 Bielsko-Biala, Poland",
+      "global_code": "8FXXR247+25"
+    },
+    "price_level": 2,
+    "rating": 4.4,
+    "reference": "ChIJ67TZJzGgFkcRk0ypLH8zJb8",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1040,
+    "vicinity": "Zwardońska 38, Bielsko-Biała"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 49.81180000000001,
+        "lng": 19.01323
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 49.8132705802915,
+          "lng": 19.0144325802915
+        },
+        "southwest": {
+          "lat": 49.8105726197085,
+          "lng": 19.0117346197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "name": "Trattoria Da Tadeusz",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2988,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112307786949208455746\">pawel kulesza</a>"
+        ],
+        "photo_reference": "ATtYBwJqyZWshhST-Ua8T2LY7QOJ7W78-BI2jKUwMgmXkmgIKGCEzrl4dY6Mp4AfBczA-RrFTDOtI8liPTfq8AJnxa0dR7NxWy9QP-066dI_Z0eS_kl3XkSFMAZHO9rDfjxCoyuXhPlToYLFcaoa1IYtUPwp3jZVMuiMbb_DX8rx1lMf4Y8",
+        "width": 5312
+      }
+    ],
+    "place_id": "ChIJkbi42TSgFkcRm7Hn6DOL3Po",
+    "plus_code": {
+      "compound_code": "R267+P7 Bielsko-Biala, Poland",
+      "global_code": "8FXXR267+P7"
+    },
+    "price_level": 2,
+    "rating": 4.4,
+    "reference": "ChIJkbi42TSgFkcRm7Hn6DOL3Po",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2272,
+    "vicinity": "Szarotki 9, Bielsko-Biała"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 49.8133175,
+        "lng": 19.01257889999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 49.8146136302915,
+          "lng": 19.0139526302915
+        },
+        "southwest": {
+          "lat": 49.8119156697085,
+          "lng": 19.01125466970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "name": "Shell",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJs7fuquyhFkcRQOA_wVjcYrw",
+    "plus_code": {
+      "compound_code": "R277+82 Bielsko-Biala, Poland",
+      "global_code": "8FXXR277+82"
+    },
+    "reference": "ChIJs7fuquyhFkcRQOA_wVjcYrw",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "car_wash",
+      "convenience_store",
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "vicinity": "Cieszyńska 160, Bielsko-Biała"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 49.81328360000001,
+        "lng": 19.0105821
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 49.81459733029151,
+          "lng": 19.01185143029151
+        },
+        "southwest": {
+          "lat": 49.81189936970851,
+          "lng": 19.0091534697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "name": "Wild Bean Cafe",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 809,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101664740509789597503\">Wild Bean Cafe</a>"
+        ],
+        "photo_reference": "ATtYBwJ9TBNp9GjWnOAB6hldM5LXV1jfpmWtiBMUvoLmSIgVTdk_LkiS6RteaRWSGHqCrTsZd7xUoCs9eWQr7sBxSTzYnEvTIbbd3ZCsvkroUzMZwkAG2Ev5SEfdZ3SCZNB5_-jHCDp0BPKVvnd2Cj2wE97zPOE4-cdobyi9ODjpK2HxWLH6",
+        "width": 1440
+      }
+    ],
+    "place_id": "ChIJASfrI0GhFkcRJ_PBugxnesA",
+    "plus_code": {
+      "compound_code": "R276+86 Bielsko-Biala, Poland",
+      "global_code": "8FXXR276+86"
+    },
+    "reference": "ChIJASfrI0GhFkcRJ_PBugxnesA",
+    "scope": "GOOGLE",
+    "types": [
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Cieszyńska 176, Bielsko-Biała"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 49.8083697,
+        "lng": 19.0179312
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 49.8097265802915,
+          "lng": 19.0194454302915
+        },
+        "southwest": {
+          "lat": 49.80702861970851,
+          "lng": 19.0167474697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "name": "Rynek 29 s.c. Restauracja, pizzeria. Dziadek A.Z., Solak U.A.",
+    "place_id": "ChIJn8XRsjOgFkcRRqcuCZNiPE8",
+    "plus_code": {
+      "compound_code": "R259+85 Bielsko-Biala, Poland",
+      "global_code": "8FXXR259+85"
+    },
+    "reference": "ChIJn8XRsjOgFkcRRqcuCZNiPE8",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Elizy Orzeszkowej 42a, Bielsko-Biała"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 49.81487380000001,
+        "lng": 19.0075351
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 49.8162227802915,
+          "lng": 19.00888408029149
+        },
+        "southwest": {
+          "lat": 49.8135248197085,
+          "lng": 19.00618611970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "name": "Szczypta Smaku",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113183461175405054539\">Konrad Naglik</a>"
+        ],
+        "photo_reference": "ATtYBwIhf-E1EIGs72naQC0SLdvb0dgLoYqgtDE-G7zD5wDp9LxSEiyYzAoPCYfNxCJkHpTFAIMUZbq1FtRB_DnwA9TUlMzJsV1Y2FrlygZwQoXAUglfiDk7K2s4yLB62n4jGStYjqIu3xGADxM_ulXi21fnDzAk7TCwFac8G8mdIvSC3bhg",
+        "width": 2659
+      }
+    ],
+    "place_id": "ChIJxccrh0uhFkcR7FUMYa89408",
+    "plus_code": {
+      "compound_code": "R275+W2 Bielsko-Biala, Poland",
+      "global_code": "8FXXR275+W2"
+    },
+    "rating": 5,
+    "reference": "ChIJxccrh0uhFkcR7FUMYa89408",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 8,
+    "vicinity": "Stawowa 29, Bielsko-Biała"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 49.81483490000001,
+        "lng": 19.019052
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 49.81611833029151,
+          "lng": 19.0204400302915
+        },
+        "southwest": {
+          "lat": 49.81342036970851,
+          "lng": 19.0177420697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "name": "Lily Subs",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107018568701254191856\">Lily Subs</a>"
+        ],
+        "photo_reference": "ATtYBwJWTgQQ34GdXPrPsl2dMftxcTKHKt5W2HQXfMPOC-fd2fScOSKpdNFulAvyWIwQlDg3YKR0ENRUBgIoEiliK7VhrEwN-F_bX9WUsXTR_kY5o7Hwr1fXVzZifQM3r8FlMYtFfk8laEyH-zGygjK4SJ66fmrxeNmtGEviADn90SFyS91I",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJ5dmbYbmhFkcRr1UEXUMb5vQ",
+    "plus_code": {
+      "compound_code": "R279+WJ Bielsko-Biala, Poland",
+      "global_code": "8FXXR279+WJ"
+    },
+    "rating": 4.3,
+    "reference": "ChIJ5dmbYbmhFkcRr1UEXUMb5vQ",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 12,
+    "vicinity": "Cieszyńska 126, Bielsko-Biała"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 49.81504839999999,
+        "lng": 19.0191857
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 49.8163799302915,
+          "lng": 19.0204917302915
+        },
+        "southwest": {
+          "lat": 49.8136819697085,
+          "lng": 19.0177937697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "name": "Lily Indyjska Restauracja",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 768,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110520579636394679557\">Lily Indyjska Restauracja</a>"
+        ],
+        "photo_reference": "ATtYBwIQHLMxIIa8IseB0jEOhklwjZl3SAytNuG9-Wcr592Asuqr9zcJOG-_WxqWSVhXewa4Akypxcuuw_Gg0GV_0LgVkgOBsXg7qZ1WbGvx6g7RJny_OcgJRekLhQ10q3KZacu11gZOCNS8YI7YwzfiO1MgfzpTcK0oEjnm-Uew3_44jgTI",
+        "width": 1024
+      }
+    ],
+    "place_id": "ChIJobxlwJShFkcRHZ77B95hsmI",
+    "plus_code": {
+      "compound_code": "R289+2M Bielsko-Biala, Poland",
+      "global_code": "8FXXR289+2M"
+    },
+    "price_level": 2,
+    "rating": 4.1,
+    "reference": "ChIJobxlwJShFkcRHZ77B95hsmI",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 326,
+    "vicinity": "Brodzińskiego 2, Bielsko-Biała"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 49.80986619999999,
+        "lng": 19.0228851
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 49.81109538029149,
+          "lng": 19.0239681802915
+        },
+        "southwest": {
+          "lat": 49.80839741970849,
+          "lng": 19.0212702197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "name": "MENO MALE",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3384,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101948624798777403444\">Marek Daniel</a>"
+        ],
+        "photo_reference": "ATtYBwLv_k3Nl3joMc7fkEoZCqHnGpdtWTQWNmknwIl20Jjj86DNEz3u1843PJyQJyZ2qIvbbdHGVxg-_EXh74ljQ_9QIHHEIELoNm2iCSbQUdr1wJO_9GrSDNVMxqNvdJ7UWhNVqODTzXkCXzvxGGUFzYfUrDv12iG05F7KZhwz7M8hGlTr",
+        "width": 6016
+      }
+    ],
+    "place_id": "ChIJPyfp8HChFkcRxHdKtx9t1-s",
+    "plus_code": {
+      "compound_code": "R25F+W5 Bielsko-Biala, Poland",
+      "global_code": "8FXXR25F+W5"
+    },
+    "price_level": 2,
+    "rating": 4.7,
+    "reference": "ChIJPyfp8HChFkcRxHdKtx9t1-s",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 285,
+    "vicinity": "Babiogórska 24, Bielsko-Biała"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 49.8152819,
+        "lng": 19.003009
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 49.8166926802915,
+          "lng": 19.0044179802915
+        },
+        "southwest": {
+          "lat": 49.8139947197085,
+          "lng": 19.0017200197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "name": "Colorata",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 471,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115374402610961764081\">Robert Konopka</a>"
+        ],
+        "photo_reference": "ATtYBwITjUG57xpctI1YnwOEHOvLWemUKxPT60ZHoE-S6_Tn33bM7SKSFsoO_KB59Ts2eSa0rrz23Y_7CEgJBzgGU0O5ob-3y-vRa9budLDfYYbkTaJrXi13o0D6qzcPw01wiuX-Tv-Oj3OufNhWeXAs1tC8f_pVv7ZI_UoquY1qm2kp0tkY",
+        "width": 800
+      }
+    ],
+    "place_id": "ChIJwYkcrrShFkcRpbEgWeRHEZU",
+    "plus_code": {
+      "compound_code": "R283+46 Bielsko-Biala, Poland",
+      "global_code": "8FXXR283+46"
+    },
+    "price_level": 2,
+    "rating": 4.1,
+    "reference": "ChIJwYkcrrShFkcRpbEgWeRHEZU",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 715,
+    "vicinity": "Spółdzielców 60, Bielsko-Biała"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 49.8037271,
+        "lng": 19.0097007
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 49.8050867802915,
+          "lng": 19.0110586302915
+        },
+        "southwest": {
+          "lat": 49.8023888197085,
+          "lng": 19.0083606697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "name": "Strefa 51 chillout By Mateusz Kręcina",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111344402866737141968\">Strefa 51 chillout By Mateusz Kręcina</a>"
+        ],
+        "photo_reference": "ATtYBwKpCdq5pZB1Mz-CAgK4sixPQOovd04nBhT8ubyIgAi642TbXQHbPzZ3qBgqvIHkN2jfenbP7qY1kSHhIeyI5ZG3U_hAVsmVzqE5kP_DhtZGZ9dgbrcA6d3yDktHCsqb9mccPq5x9pw5narAyArNNSU8erxR4DOb7WrZ-4yFqDkESlwY",
+        "width": 1960
+      }
+    ],
+    "place_id": "ChIJQTfvRjegFkcRSyPMuUvfqZw",
+    "plus_code": {
+      "compound_code": "R235+FV Bielsko-Biala, Poland",
+      "global_code": "8FXXR235+FV"
+    },
+    "rating": 4.2,
+    "reference": "ChIJQTfvRjegFkcRSyPMuUvfqZw",
+    "scope": "GOOGLE",
+    "types": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 119,
+    "vicinity": "Zwardońska 51, Bielsko-Biała"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 49.8150402,
+        "lng": 19.02102349999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 49.8164202302915,
+          "lng": 19.0223524302915
+        },
+        "southwest": {
+          "lat": 49.8137222697085,
+          "lng": 19.0196544697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "name": "Pizzeria Capra",
+    "place_id": "ChIJK4XAQcyhFkcRuF1Z3BJ26oI",
+    "plus_code": {
+      "compound_code": "R28C+2C Bielsko-Biala, Poland",
+      "global_code": "8FXXR28C+2C"
+    },
+    "reference": "ChIJK4XAQcyhFkcRuF1Z3BJ26oI",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Poland"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 49.8157868,
+        "lng": 19.005742
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 49.81706073029149,
+          "lng": 19.0071146802915
+        },
+        "southwest": {
+          "lat": 49.8143627697085,
+          "lng": 19.0044167197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "name": "Fit Pizza Bielsko",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3221,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118413734074590185269\">Fit Pizza Bielsko</a>"
+        ],
+        "photo_reference": "ATtYBwL5EDkSNkWX3Y8JIl42PRvO9XR2P7DTd6-Hd65vbZhTTPZ93fQfYpFppg8arI6PgD7D9UhglRCAe80Q7R2eS164caZoYph1Ma7UZ6Gxbqdr1W3-Qo1FR_L4Gzono7aOTTU9l5ZQ__IbSNILHfXanvCwCldKPVkuHa-PMufoVewZ4kDP",
+        "width": 4831
+      }
+    ],
+    "place_id": "ChIJA5l_yvGfFkcRovow1LkVohg",
+    "plus_code": {
+      "compound_code": "R284+87 Bielsko-Biala, Poland",
+      "global_code": "8FXXR284+87"
+    },
+    "rating": 4.9,
+    "reference": "ChIJA5l_yvGfFkcRovow1LkVohg",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 56,
+    "vicinity": "Spółdzielców 50, Bielsko-Biała"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 49.81644659999999,
+        "lng": 19.0220315
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 49.81780433029149,
+          "lng": 19.0234273802915
+        },
+        "southwest": {
+          "lat": 49.8151063697085,
+          "lng": 19.0207294197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "name": "Pizzeria Piastowska",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3016,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102995332118303531097\">Pizzeria Piastowska</a>"
+        ],
+        "photo_reference": "ATtYBwJN5-EMP28e0WUVfmI59vCB11FuYDQG33LGcfbuY9-k5scsaLm_jq3Fntnhp_J68oqQUkRHU_MSKkTm2He7BcBO7ysoHbFKnltHBV5-09q7JZJ-B7StolelofpbOXI9xUpGd_QooPU9RPJZvFMB5uUJ_6nJm45QrNwuQiJ9TNbAdO6y",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJfT3SZ6-hFkcRbCw40exf5qs",
+    "plus_code": {
+      "compound_code": "R28C+HR Bielsko-Biala, Poland",
+      "global_code": "8FXXR28C+HR"
+    },
+    "rating": 5,
+    "reference": "ChIJfT3SZ6-hFkcRbCw40exf5qs",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Piastowska, Bielsko-Biała"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 49.81919,
+        "lng": 19.0124019
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 49.8201895302915,
+          "lng": 19.0140457302915
+        },
+        "southwest": {
+          "lat": 49.8174915697085,
+          "lng": 19.0113477697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "name": "Victoria obiad jak u Mamy Restauracja Jedzenie Catering",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 455,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117151371731434971882\">Victoria obiad jak u Mamy Restauracja Jedzenie Catering</a>"
+        ],
+        "photo_reference": "ATtYBwJikucEJ6Rw7xE26rUnhluEO4LSz3S62JXIAXxaXpx88pcJYhRx9YXbjyXvyBeagc4vJQbAovDHbP5sAbky65ad0fLy_7zKfJ0aJjLZlfdScalWC3imqUvZ9BXXRxzM5ND3duaEymgCx3sl-QUdyliFYDBIIxmeDnTEBcfP3n1WFINw",
+        "width": 625
+      }
+    ],
+    "place_id": "ChIJc6egFbahFkcR-bxp2bB2DcM",
+    "plus_code": {
+      "compound_code": "R296+MX Bielsko-Biala, Poland",
+      "global_code": "8FXXR296+MX"
+    },
+    "rating": 3.8,
+    "reference": "ChIJc6egFbahFkcR-bxp2bB2DcM",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 60,
+    "vicinity": "Bratków 16, Bielsko-Biała"
+  }
+]

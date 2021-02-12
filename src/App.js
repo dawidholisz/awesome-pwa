@@ -8,6 +8,10 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import {Container, Nav, Navbar} from "react-bootstrap";
 
 import Geo from "./pages/Geo";
+import OfflineNotes from "./pages/OfflineNotes";
+import Camera from "./pages/Camera";
+import Reachability from "./pages/Reachability";
+import DevicePosition from "./pages/DevicePosition";
 
 function App() {
     return (
@@ -15,12 +19,12 @@ function App() {
             <div className="App">
                 <Navbar bg="dark" variant="dark">
                     <Navbar.Brand href="/">Osom PWA</Navbar.Brand>
-                    <Nav className="mr-auto">
-                        <Nav.Link href="/geo">Geolocation</Nav.Link>
-                        <Nav.Link href="/offline-notes">Offline notes</Nav.Link>
+                    <Nav className="ml-auto">
+                        <Nav.Link href="/geo">Geo</Nav.Link>
+                        <Nav.Link href="/offline-notes">Notes</Nav.Link>
                         <Nav.Link href="/camera">Camera</Nav.Link>
                         <Nav.Link href="/reachability">Reachability</Nav.Link>
-                        <Nav.Link href="/position">Device position</Nav.Link>
+                        <Nav.Link href="/position">Position</Nav.Link>
                     </Nav>
                 </Navbar>
                 <main>
@@ -29,9 +33,20 @@ function App() {
                       <Router path="/geo">
                         <Geo/>
                       </Router>
+                      <Router path="/offline-notes">
+                        <OfflineNotes/>
+                      </Router>
+                      <Router path="/camera">
+                        <Camera/>
+                      </Router>
+                      <Router path="/reachability">
+                        <Reachability/>
+                      </Router>
+                      <Router path="/position">
+                        <DevicePosition/>
+                      </Router>
                         <Route>
                             HomePejdz
-                            <Geo/>
                         </Route>
                     </Switch>
                     </Container>
