@@ -1,6 +1,6 @@
 import './App.css';
 import {
-    BrowserRouter as Router,
+    HashRouter as Router,
     Switch,
     Route,
 } from "react-router-dom";
@@ -20,11 +20,11 @@ function App() {
                 <Navbar bg="dark" variant="dark">
                     <Navbar.Brand href="/">Osom PWA</Navbar.Brand>
                     <Nav className="ml-auto">
-                        <Nav.Link href="/geo">Geo</Nav.Link>
-                        <Nav.Link href="/offline-notes">Notes</Nav.Link>
-                        <Nav.Link href="/camera">Camera</Nav.Link>
-                        <Nav.Link href="/reachability">Reachability</Nav.Link>
-                        <Nav.Link href="/position">Position</Nav.Link>
+                        <Nav.Link href="/#/geo">Geo</Nav.Link>
+                        <Nav.Link href="/#/offline-notes">Notes</Nav.Link>
+                        <Nav.Link href="/#/camera">Camera</Nav.Link>
+                        <Nav.Link href="/#/reachability">Reachability</Nav.Link>
+                        <Nav.Link href="/#/position">Position</Nav.Link>
                     </Nav>
                 </Navbar>
                 <main>
@@ -46,7 +46,9 @@ function App() {
                         <DevicePosition/>
                       </Router>
                         <Route>
-                            <DevicePosition/>
+                          <h1>
+                            That is my osom PWA app
+                          </h1>
                         </Route>
                     </Switch>
                     </Container>

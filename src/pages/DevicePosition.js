@@ -1,18 +1,16 @@
 import React from 'react';
 import {useMotion} from 'react-use';
-import {random, get} from 'lodash'
+import {get} from 'lodash'
 import {Alert} from "react-bootstrap";
 
-
-const getRadian = angle => angle * (Math.PI / 180)
 
 const DevicePosition = () => {
     const state = useMotion();
     const xAngle = get(state, 'accelerationIncludingGravity.x')
     const yAngle = get(state, 'accelerationIncludingGravity.y')
 
-    // if (get(state, 'accelerationIncludingGravity.x') == null && get(state, 'accelerationIncludingGravity.y') == null)
-    //     return <Alert variant="danger">Your device doesn't support accelerometer</Alert>
+    if (get(state, 'accelerationIncludingGravity.x') == null && get(state, 'accelerationIncludingGravity.y') == null)
+        return <Alert variant="danger">Your device doesn't support accelerometer</Alert>
 
     const meterRadius = 35/9
 

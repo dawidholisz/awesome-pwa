@@ -9,7 +9,7 @@ const Geo = () => {
     const [{loading:isPlacesLoading, value:places}, getPlaces] = useAsyncFn(async () => {
         if(process.env.NODE_ENV==='development')
             return mockPlaces
-        const response = await fetch(`${process.env.URL}/.netlify/functions/fetchPlaces?location=49.8103,19.0129`)
+        const response = await fetch(`/.netlify/functions/fetchPlaces?location=${latitude},${longitude}`)
         return response.json()
     }, [longitude,latitude])
 
