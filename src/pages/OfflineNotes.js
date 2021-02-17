@@ -12,9 +12,11 @@ const OfflineNotes = () => {
     setNotes([...notes, { id: getId(), content: newNoteContent }])
     setNewNoteContent('')
   }
+
   const removeNote = id => () => {
     setNotes(notes.filter(note => note.id !== id))
   }
+
   return (
     <Row>
       <Col md={4}>
@@ -22,7 +24,7 @@ const OfflineNotes = () => {
           <Card.Body>
             <Card.Title>Add notes</Card.Title>
             <Card.Text>
-              <textarea value={newNoteContent} onChange={(e) => setNewNoteContent(e.target.value)}></textarea>
+              <textarea value={newNoteContent} onChange={(e) => setNewNoteContent(e.target.value)}/>
               <Button variant="success" onClick={addNotes}>Add notes</Button>
             </Card.Text>
           </Card.Body>
