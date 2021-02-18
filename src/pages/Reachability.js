@@ -1,24 +1,27 @@
-import React from 'react';
+import React, { useEffect, useState, useCallback } from 'react'
 import { Alert } from 'react-bootstrap'
 
 const Reachability = () => {
-    return (
-        <div>
+  const [isOnline, setIsOnline] = useState(navigator.onLine)
 
-          {navigator.onLine
-            ?(
-              <Alert variant="success">
-              You are online
-              </Alert>
-            )
-            :(
-              <Alert variant="danger">
-                You are offline
-              </Alert>
-            )
-          }
-        </div>
-    );
-};
+  const onlineSubscriber = useCallback(() => {
+    setIsOnline(navigator.onLine)
+  },[navigator.onLine])
 
-export default Reachability;
+  useEffect(() => {
+      window.addEventListener('offline', onlineSubscriber)
+      window.addEventListener('online', onlineSubscriber)
+
+    return () => {
+        window.removeEventListener('offline',onlineSubscriber)
+        window.removeEventListener('online',onlineSubscriber)
+      }
+    }, []  )
+
+  return (
+    <Alert variant={isOnline ? 'success' : 'danger'}>
+      You are {isOnline ? 'on' : 'off'}line
+    </Alert>
+  )
+}
+export default Reachability
