@@ -5,7 +5,9 @@ import {
   Route,
 } from 'react-router-dom'
 import 'bootstrap/dist/css/bootstrap.min.css'
-import { Container, Nav, Navbar } from 'react-bootstrap'
+import { Button, Container, Nav, Navbar } from 'react-bootstrap'
+import LogRocket from 'logrocket'
+import setupLogRocketReact from 'logrocket-react'
 
 import Geo from './pages/Geo'
 import OfflineNotes from './pages/OfflineNotes'
@@ -13,7 +15,24 @@ import Camera from './pages/Camera'
 import Reachability from './pages/Reachability'
 import DevicePosition from './pages/DevicePosition'
 
+setupLogRocketReact(LogRocket)
+LogRocket.init(process.env.REACT_APP_LOGROCKET_ID, {
+  release: process.env.COMMIT_REF,
+  console: {
+    isEnabled: {
+      log: false,
+      debug: false,
+      error: true,
+      warn: true,
+      info: false,
+    },
+  },
+})
+
 function App () {
+  const onClick = () =>{
+    throw new Error("Crash App Button was clicked")
+  }
   return (
     <Router>
       <div className="App">
@@ -52,6 +71,7 @@ function App () {
                 <h1>
                   That is my osom PWA app
                 </h1>
+                <p>and this is button for crashing app  <Button variant="danger" onClick={onClick}>CrashApp</Button></p>
               </Route>
             </Switch>
           </Container>
